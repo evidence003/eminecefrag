@@ -1,0 +1,556 @@
+.body{
+    background-color: rgb(255,218,185);
+    width: 100%;
+    overflow: hidden;
+}
+.div1{
+    width: 100%;
+    height: 250px;
+    /* position: sticky;  */
+    top: 0px;
+     background-color: #3b0b4f;
+     z-index: 1;
+   
+
+}
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+.head{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 65px;
+    font-weight: 16px;
+    line-height: normal;
+    color: white;
+    position: relative;
+    top: 70px;
+}
+.logo{
+    width: 200px;
+    border-radius: 50%;
+    position: relative;
+    left: 100px;
+    bottom: 50px;
+}
+.p1{
+    position: relative;
+    top: 200px;
+    left: 700px;
+    width: 500px;
+    height: 500px;
+    outline:groove;
+    outline-color: #3b0b4f;
+    border-radius: 80px;
+}
+.div2{
+    background-color: #3b0b4f;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    position: relative;
+    left: 1200px;
+    bottom: 360px;
+}
+.text2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 42.7558px;
+    font-weight: 600;
+    line-height: 55.5825px;
+    position: relative;
+    bottom: 300px;
+    left: -700px;
+    z-index: 1;
+    color:  #3b0b4f;
+    text-align: right;
+}
+.text21{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 42.7558px;
+    font-weight: 600;
+    line-height: 55.5825px;
+    position: relative;
+    bottom: 300px;
+    left: -890px;
+    z-index: 1;
+    color:  #3b0b4f;
+    text-align: right;
+}
+.p2{
+    position: relative;
+    top: 40px;
+    width: 100%;
+}
+.div3{
+    width: 100%;
+    height: 600px;
+    background-color: #3b0b4f;
+}
+.p3{
+    position: relative;
+    left: 100px;
+    top: 110px;
+    border-top-right-radius: 80px;
+    border-bottom-left-radius: 80px;
+    outline: solid;
+    outline-color: rgb(255,218,185);
+    outline-width: 5px;
+}
+.text3{
+    font-family:  Fracktif, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size:  40px;
+    font-weight: 400;
+    line-height: 48px;
+    color:rgb(255,218,185) ;
+    position: relative;
+    left: -200px;
+    text-align: right;
+    bottom: 300px;
+}
+.text3p{
+    font-family:  Fracktif, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size:  25px;
+    font-weight: 200;
+    line-height: 48px;
+    color:rgb(255,218,185) ;
+    position: relative;
+    left: -70px;
+    text-align: right;
+    bottom: 230px; 
+}
+.div4{
+    width: 100%;
+    height: 700px;
+    background-color: rgb(255,218,185);
+
+}
+.text4{
+    font-size:  40px;
+    font-weight: 400;
+    line-height: 48px;
+    color:#3b0b4f; 
+    top: 70px;
+    position: relative;
+    font-family: Organica, sans-serif;
+}
+.div5{
+    width: 300px;
+    height: 150px;
+    border: solid;
+    border-color: #3b0b4f;
+    position: relative;
+    top: 150px;
+    left: 100px;
+    border-radius: 20px;
+    border-bottom-width: 50px;
+}
+.div5a{
+    text-decoration: none;
+    color: rgb(255,218,185) ;
+    position: relative;
+    top: 150px;
+    font-family:cursive;
+    font-weight: 300;
+    font-size: 20px;
+    position: relative;
+    left: 90px;
+    bottom: 1000px;
+    
+}
+.img5{
+    width: 300px;
+    height: 150px;
+    position: relative;
+    bottom: 28px;
+    left: px;
+    border-radius: 17px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius:0 ;
+}
+.div6{
+    width: 300px;
+    height: 150px;
+    border: solid;
+    border-color: #3b0b4f;
+    position: relative;
+    bottom:50px;
+    left: 500px;
+    border-radius: 20px;
+    border-bottom-width: 50px;
+}
+.div6a{
+    text-decoration: none;
+    color: rgb(255,218,185);
+    position: relative;
+    top: 160px;
+    font-family:cursive;
+    font-weight: 300;
+    font-size: 20px;
+    position: relative;
+    left: 80px;
+}
+.img6{
+    width: 300px;
+    height: 150px;
+    position: relative;
+    bottom: 28px;
+    left: px;
+    border-radius: 17px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius:0 ;
+}
+.div7{
+    width: 300px;
+    height: 150px;
+    border: solid;
+    border-color: #3b0b4f;
+    position: relative;
+    bottom: 252px;
+    left: 930px;
+    border-radius: 20px;
+    border-bottom-width: 50px;
+}
+.div7a{
+    text-decoration: none;
+    color: rgb(255,218,185);
+    position: relative;
+    top: 160px;
+    font-family:cursive;
+    font-weight: 300;
+    font-size: 20px;
+    position: relative;
+    left: 110px;
+}
+.img7{
+    width: 300px;
+    height: 150px;
+    position: relative;
+    bottom: 28px;
+    left: px;
+    border-radius: 17px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius:0 ;
+}
+.div8{
+    width: 300px;
+    height: 150px;
+    border: solid;
+    border-color: #3b0b4f;
+    position: relative;
+    bottom: 120px;
+    left: 90px;
+    border-radius: 20px;
+    border-bottom-width: 50px;
+}
+.div8a{
+    text-decoration: none;
+    color: rgb(255,218,185);
+    position: relative;
+    top: 160px;
+    font-family:cursive;
+    font-weight: 300;
+    font-size: 20px;
+    position: relative;
+    left: 80px;
+}
+.img8{
+    width: 300px;
+    height: 150px;
+    position: relative;
+    bottom: 28px;
+    left: px;
+    border-radius: 17px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius:0 ;
+}
+.div9{
+    width: 300px;
+    height: 150px;
+    border: solid;
+    border-color: #3b0b4f;
+    position: relative;
+    bottom: 330px;
+    left: 510px;
+    border-radius: 20px;
+    border-bottom-width: 50px;
+}
+.div9a{
+    text-decoration: none;
+    color: rgb(255,218,185);
+    position: relative;
+    top: 160px;
+    font-family:cursive;
+    font-weight: 300;
+    font-size: 20px;
+    position: relative;
+    left: 110px;
+}
+.img9{
+    width: 300px;
+    height: 150px;
+    position: relative;
+    bottom: 28px;
+    left: px;
+    border-radius: 17px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius:0 ;
+}
+.div10{
+    width: 300px;
+    height: 150px;
+    border: solid;
+    border-color: #3b0b4f;
+    position: relative;
+    bottom: 530px;
+    left: 930px;
+    border-radius: 20px;
+    border-bottom-width: 50px;
+}
+.div10a{
+    text-decoration: none;
+    color: rgb(255,218,185);
+    position: relative;
+    top: 160px;
+    font-family:cursive;
+    font-weight: 300;
+    font-size: 20px;
+    position: relative;
+    left: 50px;
+}
+.img10{
+    width: 300px;
+    height: 150px;
+    position: relative;
+    bottom: 28px;
+    left: px;
+    border-radius: 17px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius:0 ;
+}
+
+.text6{
+    color: rgb(255,218,185);
+    position: relative;
+    text-align: right;
+    right: 450px;
+    top: 50px;
+}
+.short{
+    color: rgb(255,218,185);
+    font-size: 20px;
+    position: relative;
+    top: 100px;
+    text-align: center;
+}
+footer{
+   background-color: #3b0b4f;
+   opacity: 0.5;
+   width: 100%;
+   height: 500px;
+   position: relative;
+   top: 200px;
+}
+.sub{
+    background-color:rgb(255,218,185) ;
+    width: 200px;
+    height: 50px;
+    border-radius: 30px;
+    position: relative;
+    bottom: 200px;
+    left: 1100px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+.btn{
+    padding: 10px;
+    width: 100px;
+    border-radius: 2px;
+    background-color: pink;
+    color: purple;
+    border-width: 2px;
+}
+.content{
+    width: 100px;
+    height: 180px;
+    background-color: lavender;
+    display: none;
+    position: relative;
+    left: 700px;
+}
+.container:hover .content{ 
+    display: block;
+}
+.content a:hover{
+    background-color: blue;
+    color: blanchedalmond;
+}
+.content a{
+    text-decoration: none;
+    display: block;
+    padding: 12px 16px;
+}
+.subtxt1{
+text-decoration:none;
+color: #3b0b4f;
+font-family: cursive;
+font-size: 25px;
+font-weight: 30px;
+position: relative;
+
+
+}
+
+.subtxt2{
+    text-decoration:none;
+    color:#3b0b4f;
+    font-family: cursive;
+    font-size: 25px;
+    font-weight: 30px;
+    position: relative;
+    
+    }
+    .subtxt3{
+        text-decoration:none;
+        color:#3b0b4f;
+        font-family: cursive;
+        font-size: 25px;
+        font-weight: 30px;
+        position: relative;
+        
+        }  
+.subtxt{
+    text-decoration:none;
+    color:#3b0b4f;
+    font-family: cursive;
+    font-size: 25px;
+    font-weight: 30px;
+    position: relative;
+}
+
+@media screen and (max-width:480px) {
+
+    .body{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        grid-gap: 40px;
+    }
+    .logo{
+        position: relative;
+        top: -70px;
+        height: 80px;
+        width: 80px;
+        left: 10px;
+    
+}
+.div1{
+    position: relative;
+    height: 300px;
+}
+.head{
+    position: relative;
+    font-size: 50px;
+    top: 80px;
+    right: -15px;
+}
+.sub{
+    position: relative;
+    left: 100px;
+    bottom: -30px;
+}
+.text2{
+    position: relative;
+    /* text-align: center; */
+    bottom: 620px;
+    left: 20px;
+    font-size: 30px;
+    text-align: left;
+}
+.text21{
+    position: relative;
+    bottom: 720px;
+    left: -10px;
+}
+.p1{
+position: relative;
+left: 7px;
+width: 350px;
+height: 350px;
+top: 200px;
+}
+.p2{
+    position: relative;
+    left: 0px;
+    top: -200px;
+}
+.div3{
+    position: relative;
+    bottom: 240px;
+}
+.p3{
+    position: relative;
+    top: 400px;
+    left: 40px;
+    height: 300px;
+    width: 300px;
+}
+.text3{
+    position: relative;
+    left: -60px;
+    bottom:290px;
+}
+.text3p{
+    position: relative;
+    text-align: left;
+    left: 10px;
+    font-size: 20px;
+    line-height: 30px;
+    bottom: 260px;
+}
+
+.div2{
+    position: relative;
+    left: -130px;
+    bottom: 240px;
+}
+.div4{
+    position: relative;
+    bottom: 200px;
+    height: 1500px;
+}
+.text4{
+    font-weight: bold;
+    bottom: 200px;
+}
+.div5{
+    position: relative;
+    left: 45px;
+}
+.div6{
+    position: relative;
+    top: 200px;
+    left: 45px;
+}
+.div7{
+    position: relative;
+    top: 250px;
+    left: 45px;
+}
+.div8{
+    position: relative;
+    top: 300px;
+    left: 45px;
+}
+.div9{
+    position: relative;
+    top: 350px;
+    left: 45px;
+}
+.div10{
+    position: relative;
+    top: 400px;
+    left: 45px;
+}
+
+}
